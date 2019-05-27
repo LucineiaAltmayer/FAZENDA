@@ -34,7 +34,7 @@ public class TelaInicial extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
-        jLabel1.setText("Tela Inicial");
+        jLabel1.setText("Tela Principal");
 
         jButton1.setText("Raça");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
